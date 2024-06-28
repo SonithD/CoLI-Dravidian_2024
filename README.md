@@ -15,7 +15,7 @@ During the training phase, each team will have 10 submission opportunities to su
 
 Submissions should follow the same structure as the Train set: a CSV file with two columns, "Word" and "Tag" named as predictions.csv for all subtasks, and then directly zip without any folder and name the zip file only TeamName_language_RunNo.zip, e.g., CIC_Kannada_Run3.zip. (Note: the csv file only predicsions.csv and zip file as mentioned)
 
-The other task related information can also be found in https://codalab.lisn.upsaclay.fr/competitions/19357?secret_key=2a2a5128-ea6d-4b69-940a-f82b69fa0b98
+Task related other information can also be found in https://codalab.lisn.upsaclay.fr/competitions/19357?secret_key=2a2a5128-ea6d-4b69-940a-f82b69fa0b98
 
 # Baseline Models
 Explored with various Machine Learning (ML) models and Conditional Random Field (CRF) model with Malayalam dataset. These models can be used for given remaining datasets.
