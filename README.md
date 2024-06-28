@@ -17,5 +17,8 @@ Submissions should follow the same structure as the Train set: a CSV file with t
 
 Task related other information can also be found in https://codalab.lisn.upsaclay.fr/competitions/19357?secret_key=2a2a5128-ea6d-4b69-940a-f82b69fa0b98
 
+IMPORTANT: keep up with the updates on the official repository,
+as the code and the README files might be updated.
+
 # Baseline Models
 Explored with various Machine Learning (ML) models and Conditional Random Field (CRF) model with ** Malayalam dataset**. Along with Malayalam dataset, these models can be utilized for remaining provided datasets namely: Kannada, Tamil, and Tulu datasets respectively.
