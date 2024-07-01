@@ -20,5 +20,5 @@ Task related other information can also be found in https://codalab.lisn.upsacla
 IMPORTANT: keep up with the updates on the official repository,
 as the code and the README files might be updated.
 
-# Baseline Models
-Explored various Machine Learning models and Conditional Random Field (CRF) model with ** Malayalam dataset**.
+# Baseline Model
+Explored various Machine Learning models and Conditional Random Field (CRF) model with **Malayalam** dataset.
